@@ -1,6 +1,7 @@
 # Group coordinates by euclidean distance 
 
 ```python
+$pip install a-pandas-ex-group-coordinates-by-distance
 from a_pandas_ex_group_coordinates_by_distance import pd_add_group_coordinates_by_distance
 pd_add_group_coordinates_by_distance()
 import pandas as pd
